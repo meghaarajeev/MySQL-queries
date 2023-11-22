@@ -1,5 +1,3 @@
-1) Create table book(bookid,title,author,publisher,year,price)
-
 create table book(
 bookid varchar(100),
 title varchar(100),
