@@ -6,7 +6,6 @@ publisher varchar(100),
 year int(50),
 price int(50),
 primary key(bookid)
-);
-
+ ); 
 
   
